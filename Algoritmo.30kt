@@ -1,0 +1,9 @@
+** Algoritmo 30
+* Objetivo: Criar um algoritmo que imprima o produto entre 28 e 43.
+*/
+fun main() {
+   val produto = 28 * 43
+   println("O produto entre os dois é: $produto")
+}
+/**Teste de execução no Terminal
+* O produto entre os dois é: 1204 */
